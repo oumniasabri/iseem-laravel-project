@@ -1,6 +1,6 @@
 @extends('layout')
 @section('title')
-  Test Page
+  contact Page
 @endsection()
 @section('content')
   <h1>Test Page</h1>
